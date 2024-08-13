@@ -24,5 +24,10 @@
 *   Verify that the home_sales temporary table is uncached using PySpark.
 *   Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
 
+## Sources:
+*   https://www.w3schools.com/sql/func_sqlserver_round.asp
+    *   Used this to figure out how to round the average prices.
+*   https://www.projectpro.io/recipes/cache-data-using-pyspark-sql
+    *   Was able to find out how to cache the table homesales.
 
 
